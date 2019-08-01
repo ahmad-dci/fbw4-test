@@ -1,6 +1,5 @@
 first created file
 file 1 line 2
 file 1 line 3
-file 1 line 4
-file 1 line 5
+ahmad changes in line 4
 file winner line 6 ;-)
