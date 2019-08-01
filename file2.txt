@@ -1,1 +1,4 @@
 create file2
+
+taking the third line
+... and the fourth...
